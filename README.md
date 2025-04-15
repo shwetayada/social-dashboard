@@ -52,17 +52,6 @@ python manage.py runserver
 
 Open http://127.0.0.1:8000 in your browser.
 
-📂 Project Structure
-
-twitter_project/
-│
-├── twitter_app/             # Your Django app
-│   ├── views.py             # View logic with Tweepy
-│   ├── templates/           # HTML templates
-│
-├── manage.py
-├── requirements.txt
-└── README.md
 
 🛠 Technologies Used
 Django
